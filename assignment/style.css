@@ -1,5 +1,49 @@
 /* Give your page a fun background color */
 
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+}
+img {
+   padding:1px;
+   border:1px solid #021a40;
+}
+body
+{
+background-color: #7FFFD4
+}
+h1
+{
+  	background-color: #9370DB
+
+  }
+h1
+{
+  text-align: center;
+}
+h2
+{
+font-family: fantasy;
+}
+h4
+{
+  font-family: cursive;
+}
+footer
+{
+background-color:  #9370DB
+}
+p
+{
+  color: ##708090
+}
+p
+{
+font-style:italic;
+}
+
 /* Make the header and footer a different color from the background */
 
 /* Align the h1 containing your name in the center of the header*/
