@@ -21,6 +21,8 @@ h1
 h1
 {
   text-align: center;
+  text-indent: 1
+
 }
 ul
 {
@@ -29,10 +31,12 @@ font-family: fantasy;
 li
 {
   font-family: cursive;
+  text-indent: 1
 }
 footer
 {
   background-image: linear-gradient(to left, red,orange,yellow,green,blue,indigo,violet);
+text-indent: 1
 }
 p
 {
@@ -41,6 +45,7 @@ p
 p
 {
 font-style:italic;
+text-indent: 2
 }
 
 /* Make the header and footer a different color from the background */
